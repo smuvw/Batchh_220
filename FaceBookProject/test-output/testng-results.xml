@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10182" started-at="2017-02-24T02:33:47Z" finished-at="2017-02-24T02:33:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10182" started-at="2017-02-24T02:33:47Z" finished-at="2017-02-24T02:33:57Z">
+      <class name="com.Account.test2">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.Account.test2@32d992b2]" name="openBrowser" is-config="true" duration-ms="6147" started-at="2017-02-23T20:33:47Z" finished-at="2017-02-23T20:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.Account.test2@32d992b2]" name="Login" duration-ms="3971" started-at="2017-02-23T20:33:53Z" finished-at="2017-02-23T20:33:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- com.Account.test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
