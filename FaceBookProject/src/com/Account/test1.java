@@ -7,6 +7,7 @@ import org.testng.annotations.BeforeSuite;
 
 public class test1 {
 	
+	//testing
 	public static WebDriver driver=null;
 	
 	@BeforeMethod
