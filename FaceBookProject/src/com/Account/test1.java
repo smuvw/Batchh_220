@@ -8,6 +8,7 @@ import org.testng.annotations.BeforeSuite;
 public class test1 {
 	
 	//testing
+	//testing by srini
 	public static WebDriver driver=null;
 	
 	@BeforeMethod
